@@ -1,0 +1,2 @@
+# PROYECTO-CALIDAD-DE-SOFTWARE
+Funcionalidades
