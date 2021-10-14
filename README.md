@@ -11,4 +11,6 @@ PROTOTIPOS
 ![crear lista](https://user-images.githubusercontent.com/75955869/137233044-19e6173b-3446-4a7d-960c-f74e4cee029b.jpeg)
 ![crear lista 2](https://user-images.githubusercontent.com/75955869/137233048-5fd6987d-d127-4a4c-8f5b-b06fd11f260e.jpeg)
 ![reproducir videos](https://user-images.githubusercontent.com/75955869/137233059-33fbc8c5-2c8b-4ba9-b09d-82d70b267b65.jpeg)
+![Iniciar Sesion](https://user-images.githubusercontent.com/92418287/137233106-345789ff-5c17-488e-a259-042f3023a9cc.jpeg)
+![Suscribirse a canales](https://user-images.githubusercontent.com/92418287/137233116-ec9056fc-cb2f-477d-a38a-e39e7ab26e87.jpeg)
 
