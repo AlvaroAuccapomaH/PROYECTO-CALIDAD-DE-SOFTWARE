@@ -1,4 +1,7 @@
 # CalidadYoutube
+Este software es una red social de videos que permite a los usuarios subir videos, interactuar, suscribirse, etc.
+Presenta una gran variedad clips de películas, programas de televisión y vídeos musicales.
+
 CASOS DE USO
 ![CASO DE USO YOUTUBE](https://user-images.githubusercontent.com/83052772/137076841-9b93e329-85a1-434a-b735-7dc7ab23f21c.png)
 
